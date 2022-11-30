@@ -1,0 +1,1 @@
+document.writeln('<div style="margin: 0 auto;" align="center"><a href="//swt.shibang-china.com/?'+location.href+'"><img src="//static.shibang-china.com/ru/mill/ru.jpg" alt=""></a></div>');
